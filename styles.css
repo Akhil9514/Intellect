@@ -1,0 +1,41 @@
+#heading{
+    background-color: #DEEDF0;
+}
+
+#playlist1{
+    background-color: ;
+}
+
+#playlist2{
+    background-color: ;
+}
+
+    body {
+        background-color: black;
+      }
+
+.hero-image {
+    background-image: url("https://media.giphy.com/media/3o7aD6ydPRgEPllYQM/giphy.gif"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 800px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    color:white;
+  }
+
+
+.latest{
+    background-color:black;
+    color:white;
+}
+
+.hero-image1{
+    background-image: url("https://media.giphy.com/media/3o7aD6ydPRgEPllYQM/giphy.gif"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 200px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    color:white;
+  }
